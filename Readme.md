@@ -22,8 +22,6 @@ To use this project:
 - pandas
 - NumPy
 
-## Author
-
 
 ## License
 
