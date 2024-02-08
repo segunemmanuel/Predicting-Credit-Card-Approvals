@@ -24,7 +24,6 @@ To use this project:
 
 ## Author
 
-[Your Name]
 
 ## License
 
